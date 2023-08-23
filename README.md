@@ -38,7 +38,13 @@ This will also work on regular Windows PC / handhelds as long as SecureBoot is d
 
 
 ## Video Tutorial
-**[If you prefer a video tutorial then click here.](https://youtu.be/ZquAgs4M2ik)**
+**[If you prefer a video tutorial then click here.](https://www.youtube.com/watch?v=oijGgcfeD1k)**
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=oijGgcfeD1k"> <img src="https://github.com/ryanrudolfoba/HackBGRT-Easy-Install-Script/blob/main/video.png"/> </a>
+</p>
+
+
 
 ## What's new as of Aug 23 2023?
 1. Initial release - easily install / uninstall HackBGRT using the provided script
