@@ -31,6 +31,8 @@ This will also work on regular Windows PC / handhelds as long as SecureBoot is d
 </p>
 
 ## Disclaimer
+This has been tested on an English only Windows install! If your Windows locale / language is different than English, then proceed with caution!
+
 1. Do this at your own risk!
 2. This is for educational and research purposes only!
 3. Don't use this if you use my Steam Deck Clover script as that already includes HackBGRT!
