@@ -1,9 +1,8 @@
 # HackBGRT Easy Install Script for Steam Deck
 
 ## About
-All credits goes to Metabolix for his tool called [HackBGRT.](https://github.com/Metabolix/HackBGRT)
+All credits goes to Metabolix for his tool called [HackBGRT.](https://github.com/Metabolix/HackBGRT) This tool will allow you to change the logo when Windows boots up!
 
-This tool will allow you to change the logo when Windows boots up! \
 I've repackaged it and created a simple script to make the install / uninstall process easier on a Steam Deck! \
 Several logos are bundled in this github repo, and they will randomize whenever Windows starts up!
 
@@ -72,8 +71,7 @@ This has been tested on an English only Windows install! If your Windows locale 
    ![image](https://github.com/ryanrudolfoba/HackBGRT-Easy-Install-Script/assets/98122529/d69aa4c4-3ce0-4568-803e-b3462572e3a6)
 
 8. To uninstall and revert any changes made, right-click uninstall.bat and then select Run-As Administrator. \
-![image](https://github.com/ryanrudolfoba/HackBGRT-Easy-Install-Script/assets/98122529/a48d8553-572d-4f1a-8f43-a8332b1cea86)
-
+![image](https://github.com/ryanrudolfoba/HackBGRT-Easy-Install-Script/assets/98122529/a48d8553-572d-4f1a-8f43-a8332b1cea86) \
 ![image](https://github.com/ryanrudolfoba/HackBGRT-Easy-Install-Script/assets/98122529/472e3da0-15b7-41d5-91fd-446c43c3dd4b)
 
 10. Reboot and the old logo will be restored.
